@@ -1,0 +1,14 @@
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.AssemblyReference.cache
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Atualizar.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Cadastrar.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Consultar.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Excluir.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Form1.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\paulo.hfsilva19\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
